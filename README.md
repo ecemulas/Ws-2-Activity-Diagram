@@ -1,1 +1,1 @@
-# Ws-2-Activity-Diagram
+# Ws2
